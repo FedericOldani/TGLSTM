@@ -10,4 +10,4 @@ This implementation supports more layers and bidirectionality.
 
 ## Notes
 TGLSTM runs on GPUs but the performance are worse than PyTorch LSTM.
-For parameters details see [PyTorch Documentation] (https://pytorch.org/docs/stable/nn.html#LSTM)
+For parameters details see [PyTorch Documentation](https://pytorch.org/docs/stable/nn.html#LSTM)
