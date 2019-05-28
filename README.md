@@ -9,4 +9,5 @@ This implementation supports more layers and bidirectionality.
 		   batch_first=False, dropout=False, bidirectional=False)
 
 ## Notes
-TGLSTM runs on GPUs but the performance are worse than PyTorch LSTM 
+TGLSTM runs on GPUs but the performance are worse than PyTorch LSTM.
+For parameters details see [PyTorch Documentation] (https://pytorch.org/docs/stable/nn.html#LSTM)
